@@ -1,1 +1,1 @@
-# Microbial-Image-Analysis-MiA
+# MiA - Microbial Image Analysis
