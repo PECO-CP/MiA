@@ -2,7 +2,7 @@
 MiA is a MATLAB-based, open-source programs for analyzing epifluorescence microscopy images of microorganisms. The program can be run through MATLAB (on a Mac or PC) or can be downloaded as an executable program and run through the freely available MATLAB runtime environment.
 
 ## Overview of Program and Case Studies
-The MiA program aims to provide flexibility for the selection, identification, and quantification of cells that vary in size and fluorescence intensity (natural or probe-conferred) within natural microbial communities. Additionally, MiA has a cell-ID feature that enables the user to define and classify regions of interest (ROIs) real-time during image analysis. You can find an overview of the functionality of the MiA program here [LINK TO BIORX]. 
+The MiA program aims to provide flexibility for the selection, identification, and quantification of cells that vary in size and fluorescence intensity (natural or probe-conferred) within natural microbial communities. Additionally, MiA has a cell-ID feature that enables the user to define and classify regions of interest (ROIs) real-time during image analysis. The program enables the user to export data in easy-to-use formats, facilitating downstream analysis. You can find an overview of the functionality of the MiA program here [LINK TO BIORX]. 
 
 The materials from the case studies featured in the manuscript including microscopy images and suggested analyses are included in the 'Case Studies' folder within this repository. 
 
