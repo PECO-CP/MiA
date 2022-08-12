@@ -2,7 +2,7 @@
 MiA is a MATLAB-based, open-source programs for analyzing epifluorescence microscopy images of microorganisms. The program can be run through MATLAB (on a Mac or PC) or can be downloaded as an executable program and run through the freely available MATLAB runtime environment.
 
 ## Overview of Program and Case Studies
-You can find an overview of the functionality of the MiA program here [LINK TO BIORX].
+The MiA program aims to provide flexibility for the selection, identification, and quantification of cells that vary in size and fluorescence intensity (natural or probe-conferred) within natural microbial communities. Additionally, MiA has a cell-ID feature that enables the user to define and classify regions of interest (ROIs) real-time during image analysis. You can find an overview of the functionality of the MiA program here [LINK TO BIORX]. 
 
 The materials from the case studies featured in the manuscript including microscopy images and suggested analyses are included in the 'Case Studies' folder within this repository. 
 
@@ -26,4 +26,3 @@ Detailed instructions for installing, running, and using MiA can be found in the
 2. Navigate to the location of the executable installer on your computer and open it. A pop-up may appear verifying the download with publisher ’Unknown’. Follow the instructions of the program, including selecting an installation location. Once you do so and accept the Mathworks licensing agreement, the download will begin. (NOTE: The program will not download the runtime environment if it detects it has already been downloaded). If needed, you can download the runtime environment [HERE]. *Please see the manaul for details about permissions that may be required for Mac users*
 3. To run the program, the executable will be located within the ’application’ sub-folder of the folder you selected for installation. The program will either be an .exe or .app file depending if you installed it onto a PC or Mac, respectively. Double-click the .exe (or .app) file and the program will start up. 
 
-## Features
