@@ -6,9 +6,12 @@ Image of a natural mixed phytoplankton community to demonstrate the flexibility 
 This case study includes the following: 
 
 1. Image of planktonic community from coastal environment (CaseStudy1.czi)
-2. Guide for the analysis of the image (CaseStudy1_stepbystep_guide.pdf)
-3. Several 'masks' of ROIs (i.e., CaseStudy1_mask1 and CaseStudy1_mask2) to explore image analysis
-4. Example of the output data from each mask (i.e., CaseStudy1_mask1_ROI_Data.xlsx and CaseStudy1_mask2_ROI_Data.xlsx)
+2. Example tiff format of the image for easy viewing outside of the program (CaseStudy1_full.tiff)
+3. Guide for the analysis of the image (CaseStudy1_stepbystep_guide.pdf)
+4. Several 'masks' of ROIs (i.e., CaseStudy1_mask1 and CaseStudy1_mask2) to explore image analysis - see guide for analysis details
+5. Example of the output data from each mask (i.e., CaseStudy1_mask1_ROI_Data.xlsx and CaseStudy1_mask2_ROI_Data.xlsx)
+
+
 
 
 **Case Study 2**
@@ -20,6 +23,6 @@ This case study includes the following:
 1. Image of mixed culture (CaseStudy2.czi)
 2. Guide for the analysis of the image (CaseStudy2_stepbystep_guide.pdf)
 3. Mask of ROIs for the image (CaseStudy2_mask.mat)
-4. Example of the output data from the example mask (CaseStudy2_ROI_Data.csv)
-5. Example of R code for analyzing image (CaseStudy2_R-Code.pdf)
+4. Example of the output data from the example mask (CaseStudy2_ROI_Data; csv and xlsx formats)
+5. Example of R code for analyzing image based on size and fluorescence (CaseStudy2_R-Code.pdf)
 
