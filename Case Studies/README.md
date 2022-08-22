@@ -12,7 +12,7 @@ This case study includes the following:
 5. Example of the output data from each mask (i.e., CaseStudy1_mask1_ROI_Data.xlsx and CaseStudy1_mask2_ROI_Data.xlsx)
 
 
-
+<br>
 
 **Case Study 2**
 
