@@ -24,5 +24,6 @@ This case study includes the following:
 2. Guide for the analysis of the image (CaseStudy2_stepbystep_guide.pdf)
 3. Mask of ROIs for the image (CaseStudy2_mask.mat)
 4. Example of the output data from the example mask (CaseStudy2_ROI_Data; csv and xlsx formats)
-5. Example of R code for analyzing image based on size and fluorescence (CaseStudy2_R-Code.pdf)
+5. Example of R code for analyzing the image data based on size and fluorescence (CaseStudy2_R-Code.pdf) - this code needs to be used outside of the imaging program with R.
+
 
