@@ -16,7 +16,7 @@ classdef roi_stats < handle
 %      representation of the graphic objects inherent in this class. This 
 %      is primarily used for troubleshooting and preview purposes.
 
-% Last Modified by JONATHAN HOOD v3.0 Sep-2022
+% Last Modified by Alexis Pasulka v3.01 Oct-2023
  
 
 % MiA Interfaces package holding all created interfaces of the MiA class,
@@ -303,7 +303,7 @@ classdef roi_stats < handle
            ma_length = obj.table_data.MajorAxisLength;
            obj.min_pixel_um.String = num2str(conv_factor*min(ma_length));
            obj.max_pixel_um.String = num2str(conv_factor*max(ma_length));
-           obj.mean_pixel_um.String = num2str(round(conv_factor*mean(ma_length)));
+           obj.mean_pixel_um.String = num2str(conv_factor*mean(ma_length));
            obj.median_pixel_um.String = num2str(conv_factor*median(ma_length));
            %}
        end
