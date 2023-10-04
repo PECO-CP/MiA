@@ -16,7 +16,7 @@ classdef roi_stats < handle
 %      representation of the graphic objects inherent in this class. This 
 %      is primarily used for troubleshooting and preview purposes.
 
-% Last Modified by JONATHAN HOOD v3.0 Sep-2022
+% Last Modified by Alexis Pasulka v3.01 Oct-2023
  
 
 % MiA Interfaces package holding all created interfaces of the MiA class,
